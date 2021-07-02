@@ -7,6 +7,8 @@ class BasicJavaP1 {
 		return (long) num;
 	}
 
+	//Another test comment
+	
 	public static double conversion(double fahr) {
 
 		return ((fahr - 32) / 1.8);
